@@ -1,0 +1,11 @@
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\bin\Debug\BorrowingSystem.exe.config
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\bin\Debug\BorrowingSystem.exe
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\bin\Debug\BorrowingSystem.pdb
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.csprojAssemblyReference.cache
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.Properties.Resources.resources
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.csproj.GenerateResource.cache
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.csproj.CoreCompileInputs.cache
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.exe
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.pdb
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.Dashboard.resources
+C:\Users\tjton\source\repos\BorrowingSystem\BorrowingSystem\obj\Debug\BorrowingSystem.Login.resources
